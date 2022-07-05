@@ -4,10 +4,10 @@
 
 ---
 
-# Get node instance (latest stable v15.x)
-
-=> curl -fsSL https://deb.nodesource.com/setup_15.x | sudo -E bash -
-=> sudo apt-get install -y nodejs (-y is for yes, can be ignored for manual handling)
+# Get node instance (latest stable v16.x)
+# Using Ubuntu
+curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+sudo apt-get install -y nodejs
 
 ---
 
