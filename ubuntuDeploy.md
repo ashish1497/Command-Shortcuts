@@ -1,13 +1,16 @@
 # Update Instance
 
 => sudo apt update
+
 => sudo apt --list upgradable
+
 => sudo apt upgrade
 
 ---
 
 # Using Ubuntu | Get node instance (latest stable v16.x)
 curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+
 sudo apt-get install -y nodejs
 
 ---
