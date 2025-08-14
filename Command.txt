@@ -1,2 +1,4 @@
 //Remove Git from a project
 => rm -rf .git
+
+test
